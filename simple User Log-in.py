@@ -1,8 +1,8 @@
-name='Simon'
+Username='Simon'
 password='SimonZmugg'
 print('please type your username')
 Username=input()
-if name=='Simon':
+if Username=='Simon':
     print('Hello Simon')
 else:
     print('Oh we don\'ţ know you\n do you want to create a new account?')
